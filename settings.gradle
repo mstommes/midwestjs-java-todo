@@ -1,0 +1,4 @@
+rootProject.name="midwest-js-todos"
+
+include "todo-js"
+include "todo-proxy"
